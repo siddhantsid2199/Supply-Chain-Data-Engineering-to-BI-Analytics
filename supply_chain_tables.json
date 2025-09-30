@@ -1,0 +1,52 @@
+[
+  {
+    "Parameter1_relativeurl": "siddhantsid2199/Supply-Chain-Analytics-Pipeline/refs/heads/main/Data/Calendar.csv",
+    "Parameter1_dynamic_todatalake": "Calendar",
+    "dynamic_parametertodatalake_forfile": "calendar.csv"
+  },
+  {
+    "Parameter1_relativeurl": "siddhantsid2199/Supply-Chain-Analytics-Pipeline/refs/heads/main/Data/Customers.csv",
+    "Parameter1_dynamic_todatalake": "Customers",
+    "dynamic_parametertodatalake_forfile": "customers.csv"
+  },
+  {
+    "Parameter1_relativeurl": "siddhantsid2199/Supply-Chain-Analytics-Pipeline/refs/heads/main/Data/Product_Categories.csv",
+    "Parameter1_dynamic_todatalake": "Product_Categories",
+    "dynamic_parametertodatalake_forfile": "product_categories.csv"
+  },
+  {
+    "Parameter1_relativeurl": "siddhantsid2199/Supply-Chain-Analytics-Pipeline/refs/heads/main/Data/Product_Subcategories.csv",
+    "Parameter1_dynamic_todatalake": "Product_Subcategories",
+    "dynamic_parametertodatalake_forfile": "product_subcategories.csv"
+  },
+  {
+    "Parameter1_relativeurl": "siddhantsid2199/Supply-Chain-Analytics-Pipeline/refs/heads/main/Data/Products.csv",
+    "Parameter1_dynamic_todatalake": "Products",
+    "dynamic_parametertodatalake_forfile": "products.csv"
+  },
+  {
+    "Parameter1_relativeurl": "siddhantsid2199/Supply-Chain-Analytics-Pipeline/refs/heads/main/Data/Returns.csv",
+    "Parameter1_dynamic_todatalake": "Returns",
+    "dynamic_parametertodatalake_forfile": "returns.csv"
+  },
+  {
+    "Parameter1_relativeurl": "siddhantsid2199/Supply-Chain-Analytics-Pipeline/refs/heads/main/Data/Sales_2015.csv",
+    "Parameter1_dynamic_todatalake": "Sales_2015",
+    "dynamic_parametertodatalake_forfile": "sales_2015.csv"
+  },
+  {
+    "Parameter1_relativeurl": "siddhantsid2199/Supply-Chain-Analytics-Pipeline/refs/heads/main/Data/Sales_2016.csv",
+    "Parameter1_dynamic_todatalake": "Sales_2016",
+    "dynamic_parametertodatalake_forfile": "sales_2016.csv"
+  },
+  {
+    "Parameter1_relativeurl": "siddhantsid2199/Supply-Chain-Analytics-Pipeline/refs/heads/main/Data/Sales_2017.csv",
+    "Parameter1_dynamic_todatalake": "Sales_2017",
+    "dynamic_parametertodatalake_forfile": "sales_2017.csv"
+  },
+  {
+    "Parameter1_relativeurl": "siddhantsid2199/Supply-Chain-Analytics-Pipeline/refs/heads/main/Data/Territories.csv",
+    "Parameter1_dynamic_todatalake": "Territories",
+    "dynamic_parametertodatalake_forfile": "territories.csv"
+  }
+]
